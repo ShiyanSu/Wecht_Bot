@@ -4,15 +4,7 @@ import json
 from requests import NullHandler
 
 auto_reply_list = [
-    'Blueflash客服',
-    '布瑞斯',
-    'Blueflash002',
-    '张嘉龙',
-    'Alex',
-    'zisedexin61',
-    '杨卓然6.16',
-    '1900',
-    '_yangzhuoran',
+    
 ]
 
 @itchat.msg_register(itchat.content.TEXT, isFriendChat=True)
