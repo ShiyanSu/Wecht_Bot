@@ -1,6 +1,6 @@
 # Wecht_Bot
 
-**This is a auto-reply bot for Wechat
+**This is a auto-reply bot for Wechat**
 
 ## Instruction
 
